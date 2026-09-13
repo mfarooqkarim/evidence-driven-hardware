@@ -763,7 +763,7 @@ def main():
     st.markdown(
         """
         <section class="pcb-board">
-            <div class="eyebrow">PCB / SCHEMATIC REVIEWER</div>
+            <div class="eyebrow">CircuitMind AI</div>
             <h1>Review your design.<br><span>Catch risks earlier.</span></h1>
             <div class="hero-copy">
                 AI-assisted engineering analysis for signal integrity, power & ground,
